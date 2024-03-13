@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fowle\\source\\repos\\Mission10_Fowler\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{322A535B-BE30-449F-95F5-47E2C5B7B288}|IS 413 - Mission 10 - Backend\\IS 413 - Mission 10 - Backend.csproj|c:\\users\\fowle\\source\\repos\\mission10_fowler\\backend\\is 413 - mission 10 - backend\\data\\efbowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A535B-BE30-449F-95F5-47E2C5B7B288}|IS 413 - Mission 10 - Backend\\IS 413 - Mission 10 - Backend.csproj|solutionrelative:is 413 - mission 10 - backend\\data\\efbowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A535B-BE30-449F-95F5-47E2C5B7B288}|IS 413 - Mission 10 - Backend\\IS 413 - Mission 10 - Backend.csproj|c:\\users\\fowle\\source\\repos\\mission10_fowler\\backend\\is 413 - mission 10 - backend\\data\\ibowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A535B-BE30-449F-95F5-47E2C5B7B288}|IS 413 - Mission 10 - Backend\\IS 413 - Mission 10 - Backend.csproj|solutionrelative:is 413 - mission 10 - backend\\data\\ibowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A535B-BE30-449F-95F5-47E2C5B7B288}|IS 413 - Mission 10 - Backend\\IS 413 - Mission 10 - Backend.csproj|c:\\users\\fowle\\source\\repos\\mission10_fowler\\backend\\is 413 - mission 10 - backend\\controllers\\bowlingleaguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A535B-BE30-449F-95F5-47E2C5B7B288}|IS 413 - Mission 10 - Backend\\IS 413 - Mission 10 - Backend.csproj|solutionrelative:is 413 - mission 10 - backend\\controllers\\bowlingleaguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BowlingLeagueController.cs",
+              "DocumentMoniker": "C:\\Users\\fowle\\source\\repos\\Mission10_Fowler\\backend\\IS 413 - Mission 10 - Backend\\Controllers\\BowlingLeagueController.cs",
+              "RelativeDocumentMoniker": "IS 413 - Mission 10 - Backend\\Controllers\\BowlingLeagueController.cs",
+              "ToolTip": "C:\\Users\\fowle\\source\\repos\\Mission10_Fowler\\backend\\IS 413 - Mission 10 - Backend\\Controllers\\BowlingLeagueController.cs",
+              "RelativeToolTip": "IS 413 - Mission 10 - Backend\\Controllers\\BowlingLeagueController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:26:07.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EFBowlingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fowle\\source\\repos\\Mission10_Fowler\\backend\\IS 413 - Mission 10 - Backend\\Data\\EFBowlingRepository.cs",
+              "RelativeDocumentMoniker": "IS 413 - Mission 10 - Backend\\Data\\EFBowlingRepository.cs",
+              "ToolTip": "C:\\Users\\fowle\\source\\repos\\Mission10_Fowler\\backend\\IS 413 - Mission 10 - Backend\\Data\\EFBowlingRepository.cs",
+              "RelativeToolTip": "IS 413 - Mission 10 - Backend\\Data\\EFBowlingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:25:29.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBowlingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fowle\\source\\repos\\Mission10_Fowler\\backend\\IS 413 - Mission 10 - Backend\\Data\\IBowlingRepository.cs",
+              "RelativeDocumentMoniker": "IS 413 - Mission 10 - Backend\\Data\\IBowlingRepository.cs",
+              "ToolTip": "C:\\Users\\fowle\\source\\repos\\Mission10_Fowler\\backend\\IS 413 - Mission 10 - Backend\\Data\\IBowlingRepository.cs",
+              "RelativeToolTip": "IS 413 - Mission 10 - Backend\\Data\\IBowlingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:12:22.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

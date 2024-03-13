@@ -1,0 +1,6 @@
+@IS_413___Mission_10___Backend_HostAddress = http://localhost:5119
+
+GET {{IS_413___Mission_10___Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
